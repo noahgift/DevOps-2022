@@ -1,5 +1,7 @@
 [![Python application test with Github Actions](https://github.com/noahgift/DevOps-2022/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/DevOps-2022/actions/workflows/main.yml)
 
+[![code build](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiakljZmdVdldhd3VPaVpDMTdUMFp1S21RSktUMGttYzVsb1BvS1NiSUFybGVxbWcvNE05dUR3SWRsTHczVDRpVFdwNWhBRHRPOTVYNllyYTQ2KzhMZ0FRPSIsIml2UGFyYW1ldGVyU3BlYyI6IjRLSGxOVXNWUG9wVFhJOVYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+
 # DevOps-2022
 This is a repo for DevOps
 
