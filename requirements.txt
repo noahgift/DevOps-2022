@@ -1,0 +1,5 @@
+pytest
+pylint
+black
+boto3
+ipython
