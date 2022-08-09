@@ -6,3 +6,4 @@ fire
 wikipedia
 fastapi
 uvicorn[standard]
+pandas

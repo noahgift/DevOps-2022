@@ -6,6 +6,6 @@ test:
 	#python -m pytest -vv test_awscli.py
 
 lint:
-	pylint --disable=R,C awscli.py awslib
+	pylint --disable=R,C awscli.py awslib main.py
 
 all: install lint test format
