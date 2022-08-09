@@ -40,3 +40,20 @@ text = """Lambda is a compute service that lets you
     run code without provisioning or managing servers."""
 ```
 
+### Continuous Delivery with Code Build
+
+```
+version: 0.2
+
+phases:
+  #install:
+  build:
+    commands:
+       - aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 561744971673.dkr.ecr.us-east-1.amazonaws.com
+       - docker build -t fastapicd .
+       - docker tag fastapicd:latest 561744971673.dkr.ecr.us-east-1.amazonaws.com/fastapicd:latest
+       - docker push 561744971673.dkr.ecr.us-east-1.amazonaws.com/fastapicd:latest
+```
+
+
+
