@@ -4,3 +4,5 @@ boto3
 ipython
 fire
 wikipedia
+fastapi
+uvicorn[standard]
