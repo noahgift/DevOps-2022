@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/noahgift/DevOps-2022/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/DevOps-2022/actions/workflows/main.yml)
+
 # DevOps-2022
 This is a repo for DevOps
 
