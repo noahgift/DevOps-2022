@@ -3,3 +3,4 @@ pylint
 boto3
 ipython
 fire
+wikipedia
